@@ -10,5 +10,4 @@ Stroke Attack Prediction is a basic project engaging Artificial Neural Network t
 
 - PYTHON
 - NEURAL NETWORKS
-- OPEN CV
 - VS Code
